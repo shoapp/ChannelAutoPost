@@ -1,6 +1,6 @@
 {
     "name": "Channel Auto Post",
-    "description": "Channel Auto Post Bot for telegram, by @BotzHub.",
+    "description": "Channel Auto Post Bot for telegram.",
     "logo": "",
     "keywords": [
         "telegram",
@@ -8,9 +8,9 @@
         "telegram-bot",
         "botzhub"
     ],
-    "repository": "https://github.com/xditya/ChannelAutoPost",
+    "repository": "https://github.com/shoapp/ChannelAutoPost",
     "website": "xditya.me",
-    "success_url": "https://t.me/BotzHub",
+    "success_url": "https://github.com/shoapp",
     "env": {
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
