@@ -40,7 +40,7 @@ async def _(event):
     await event.reply(
         f"Hi `{event.sender.first_name}`!\n\nI am a channel auto-post bot!! ...",
         buttons=[
-            Button.url("Repo", url="https://github.com/xditya/ChannelAutoForwarder"),
+            Button.url("Repo", url="https://github.com/shoapp/ChannelAutoPost"),
             Button.url("Dev", url="https://q-sender.pro"),
         ],
         link_preview=False,
